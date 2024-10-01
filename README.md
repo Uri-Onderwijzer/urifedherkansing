@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina
-  <img src="images/tnfhomepage.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/tnffullpage.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/tnffullpage2.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -65,10 +65,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Breakdownschets (week 1)
 
 <details>
-  <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
+  (De blauwe vierkanten zijn sections)
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschetsfed.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
@@ -88,8 +88,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Het verrasde me hoe goed de code er nog inzat van vorig jaar, ik had verwacht dat ik echt met heel veel moeite weer helemaal opnieuw alles moest leren, maar de kennis van vorig jaar kwam al snel terug.
+  -Waar ik moeite mee heb is nu vooral de selectoren, ik ben nu soms classes aan het gebruiken op plekken waar dit eigenlijk niet mag, ik ga dit in de latere weken oplossen en de goede selectoren gebruiken.
+  -Een uitdaging die ik had was om een carrousel te maken, niet een werkende maar meer iets dat lijkt op een carrousel.
+  <img src="readme-images/pbfotocarrousel.png" width="375px">
+  De uitdaging hier was om te voorkomen dat er side-scrolling voorkwam, dit is dus ook wat er eerst gebeurde. Wat ik wilde was dat de tweede foto in het carrousel afgesneden werd en dat hij dus wegvalt zodat je alleen de zijkant van de foto als breadcrumb kan zien. Na even puzzelen en met hulp van ChatGPT is het gelukt, ik moest de stukjes code: overflow: hidden; en width: 100vw; gebruiken.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
